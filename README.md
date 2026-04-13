@@ -1,2 +1,2 @@
 # UDL-solutions
-UDL notebooks resolved by me while studying. 
+UDL notebooks (https://udlbook.github.io/udlbook/) resolved by me while studying. 
