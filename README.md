@@ -1,2 +1,2 @@
 # UDL-solutions
-UDL notebooks (https://udlbook.github.io/udlbook/) resolved by me while studying. 
+Understanding Deep Learning notebooks from Simon J.D. Prince (https://udlbook.github.io/udlbook/) resolved by me while studying. 
